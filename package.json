@@ -1,0 +1,9 @@
+{
+  "name": "@mixint/lookalive",
+  "version": "0.1.0",
+  "description": "Tools for Working with Objects on Disk",
+  "main": "src/lookalive.js",
+  "repository": "github.com/mixint/lookalive",
+  "author": "Colten Jackson <jazzyjackson@gmail.com>",
+  "license": "BSD-3-Clause"
+}
